@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/Zoltar.png</file>
+        <file>textures/GameOver.png</file>
+    </qresource>
+</RCC>
